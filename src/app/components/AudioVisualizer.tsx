@@ -1,6 +1,8 @@
 // components/AudioVisualizer.tsx
 import React, { useRef, useEffect } from 'react';
+// @ts-ignore
 import * as THREE from 'three';
+
 
 interface AudioVisualizerProps {
   audioRef: React.RefObject<HTMLAudioElement>;
