@@ -133,7 +133,7 @@ const Page: React.FC = () => {
             <p>I did 3D modeling, research and learned about design.</p>
             <p>Through many experiences surrounded by incredible people this allowed me to trully be curious and creative and really taught me about making.</p>
             <img src="/Bootcamp.jpg" alt="" className='mx-auto' style={{maxWidth: '50%', borderRadius : '10px', marginTop : '10px', marginBottom : '10px'}}/>
-            <p>This was made during the first bootcamp before joining the IFT, we captured the signals of NOAA satellites that transmit the live date of earth's weather.</p>
+            <p>This was made during the first bootcamp before joining the IFT, we captured the signals of NOAA satellites that transmit the live date of earth&aposs weather.</p>
           </div>
           <div 
             id="description2" 
@@ -166,7 +166,7 @@ const Page: React.FC = () => {
         }}>CaribeWave 2025</h2>
             <img src="/CaribeWave.png" alt="" className='mx-auto' style={{maxWidth: '20%'}}/>
             <p>According to NCEI, in the past 500 years, over 65 confirmed tsunamis have been observed and approximately 4,500 people have lost their lives to tsunamis in the Caribbean and adjacent regions. Population growth and influx of tourists along the Caribbean and Western Atlantic coasts increasing the tsunami vulnerability of the region.
-Therefore, to try and minimize the risks,the CARIBE WAVE annual tsunami exercise is being conducted to assist tsunami preparedness efforts throughout the Caribbean and adjacent regions. Recent tsunamis, such as those in the Indian Ocean (2004, 2018), Samoa (2009), Haiti (2010), Chile (2010, 2014, 2015), Japan (2011), Honduras (2018), New Zealand (2021) and Hunga Tonga-Hunga Ha'apai (2022), attest to the importance of proper planning for tsunami response. With this exercise, the strengths and gaps of the tsunami warning system can be identified.
+Therefore, to try and minimize the risks,the CARIBE WAVE annual tsunami exercise is being conducted to assist tsunami preparedness efforts throughout the Caribbean and adjacent regions. Recent tsunamis, such as those in the Indian Ocean (2004, 2018), Samoa (2009), Haiti (2010), Chile (2010, 2014, 2015), Japan (2011), Honduras (2018), New Zealand (2021) and Hunga Tonga-Hunga Ha&aposapai (2022), attest to the importance of proper planning for tsunami response. With this exercise, the strengths and gaps of the tsunami warning system can be identified.
             </p>
             <div style={{ 
               flex: 1, 
