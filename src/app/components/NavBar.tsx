@@ -1,6 +1,5 @@
 // NavBar.tsx
 import Link from 'next/link';
-import AudioVisualizer from './AudioVisualizer';
 
 interface NavBarProps {
   show: boolean;
@@ -33,8 +32,7 @@ const NavBar: React.FC<NavBarProps> = ({
       <div className="flex flex-col space-y-4 items-center ">
        
         <audio ref={audioRef} src="/Nutcracker.m4a" preload="metadata" autoPlay loop/>
-       
-        <AudioVisualizer key={`audio-vis-${activeSection || 'home'}`} audioRef={audioRef} isPlaying={isPlaying} />
+      
         
        
         <div className="flex space-x-2 ">
