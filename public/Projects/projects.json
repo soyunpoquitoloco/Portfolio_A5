@@ -1,0 +1,20 @@
+{
+    "AquaMind": {
+        "title": "AquaMind",
+        "description": "This project was about using fishes to create inputs. At first, for the tracking of the fishes, I used openCV and decided to create my own dataset to train a CNN. However, after multiple attempts, the CNN wasn't actually detecting anything. So I switched to asimple algorithm that detected the nuances of orange color. It worked well. Then, I splited the frame's space into even sectors to create straightforward all-or-nothing answer. Finally, using a bunch of libraries to scrap up the informations of a navigator I was able to use their inputs as commands to play Tetris. But we can think of a lot of other usecases : generating sequences of numbers, generating music...",
+        "image": "/Projects/Fish/Fish.png",
+        "video": "/Projects/Fish/fish.mp4"
+    },
+    "sealy": {
+        "title": "Sealy the seal : Investigating playful companions for productivity",
+        "description": "This project is a research project named Sealy, a small robotic companion resembling a baby seal. Sealy’s goal is to help people stay focused and productive while they work. The design of Sealy builds on two main ideas. The first comes from research in human-robot interaction. Studies show that when a robot mirrors a person’s posture or gestures, it can create a sense of connection. This nonverbal synchrony makes people feel more engaged and supported. It can even increase persistence and attention during tasks. It also allows communication without being invasive and disrupting. The second idea comes from research on cuteness. When people see animals or objects with “baby-like” traits, big eyes, round shapes, small bodies, they often feel warm, protective, and attentive. Psychologists call this the “baby schema” effect. It does more than make people smile: it can reduce stress and improve performance on demanding or detail-oriented tasks. Sealy combines these two principles. Its seal-like form is designed to be immediately approachable and comforting. More than just cute, Sealy interacts by mirroring the user’s behavior. If the user sits upright, Sealy also sits upright. If the user slouches, Sealy slouches too. If the user spends too much time on their phone, Sealy shows a similar distracted behavior. In this way, Sealy becomes a kind of mirror, playful but effective that reminds the user to stay focused without using words or warnings. The project will study Sealy in work and study environments. Sealy is not designed as a strict coach or tool. Instead, it is a gentle partner that encourages self-awareness through subtle signals. Its role is showing that robotic companions can affect our behavior in soft, non-intrusive ways. This work contributes to a growing area in social robotics.",
+        "image": "/Projects/Sealy/Sealy.png",
+        "video": "/Projects/Sealy/Start.mkv"
+    },
+    "torus": {
+        "title": "Inflatable torus for in-pipe exploration",
+        "description": "The soft robot created is a flexible and inflatable tore that rolls inside of himself to create movement on its outside layer so it crawls forward in the pipe. A hard system inside of it gives the energy and creates the movement with an electrical system with batteries and ccm (continuous current motor). A camera could also be placed inside this hard part to collect information on the state of the surface inside the pipe. The idea of the tore made it possible to have a continuous movement into the act of going forward in contrary of the usual way of making soft robots that move in phases and hence can be slower and less efficient.",
+        "image": "/Projects/Torus/Torus.jpg",
+        "video": "/Projects/Torus/Torus.mp4"
+    }
+}
