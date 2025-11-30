@@ -4,11 +4,12 @@ import Link from 'next/link';
 interface NavBarProps {
   show: boolean;
   activeSection: string;
-  audioRef: React.RefObject<HTMLAudioElement>;
+  audioRef: React.RefObject<HTMLAudioElement | null>;
   isPlaying: boolean;
   isMuted: boolean;
   toggleMute: () => void;
 }
+
 
 const NavBar: React.FC<NavBarProps> = ({ 
   show, 

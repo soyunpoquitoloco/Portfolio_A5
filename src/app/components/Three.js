@@ -303,7 +303,6 @@ document.getElementById('close-desc').onclick = () => {
     document.getElementById('project-video').pause();  // Arrête la vidéo
     document.getElementById('project-video2').style.display = 'none';
     document.getElementById('project-video2').pause();  // Arrête la vidéo
-    document.getElementById('project-link').style.display = 'none';
 };
 //const icoTexture = new THREE.TextureLoader().load('images/Bato.png');
 //const geometry = new THREE.IcosahedronGeometry(10)
